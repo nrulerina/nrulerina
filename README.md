@@ -42,7 +42,7 @@
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,dart,flutter,figma,r,firebase,py,ps)](https://skillicons.dev) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oishylea&layout=compact&langs_count=10&hide=html,CSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrulerina&layout=compact&langs_count=10&hide=html,CSS)
 <!-- ## Contact
 
 <p>
@@ -53,7 +53,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="game 3" width="270" height="200">
-  <img src="https://media.giphy.com/media/WJOq6yKop0A1y/giphy.gif" alt="game 3" width="270" height="200">
-  <img src="https://media.giphy.com/media/KZGN8tU5OmFJC/giphy.gif" alt="game 3" width="270" height="200">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZvOXozdnNodGF5N3h2YzE0aTVtNXVnaW81NGxiZnI4MGo0MjhodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="game 3" width="270" height="200">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZmb3I5N3FsNXhjcDd0bGNkbW9nbnc2bnI4M3pxZ28zMzVpamd1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rOdtJJS9Xf4TYx2aT8/giphy.gif" alt="game 3" width="270" height="200">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQzb2IxOTVleDkzNWRtZjNqYmF4MDJpeXFwa21vanZ4YnRzZDQ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" alt="game 3" width="270" height="200">
 </p>
