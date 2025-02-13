@@ -11,8 +11,8 @@
 🤖 [HopeNest - Laravel](https://github.com/oishylea/RedditClone)<br>
 
 ## Recent Projects
-🚗 [CBS- Car Bookinng System](https://github.com/nrulerina/Car-Booking-System)<br>
-📖 [Library Management System](https://github.com/nrulerina/Library-Management-System)<br>
+🚗 [CBS- CarBookinngSystem - Website](https://github.com/nrulerina/Car-Booking-System)<br>
+📖 [LibraryManagementSystem - Java](https://github.com/nrulerina/Library-Management-System)<br>
 
 
 
