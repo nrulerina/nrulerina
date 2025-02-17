@@ -46,6 +46,8 @@
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,dart,flutter,figma,r,firebase,py,ps)](https://skillicons.dev) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrulerina&layout=compact&langs_count=10&hide=html,CSS)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nrulerina&theme=radical&no-bg=true&no-frame=true)
+
 <!-- ## Contact
 
 <p>
