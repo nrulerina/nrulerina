@@ -10,7 +10,7 @@
 <!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
 
 ## Ongoing Projects
-🌐 [HopeNest - Laravel](https://github.com/oishylea/RedditClone)<br>
+🌐 [HopeNest - Laravel](https://github.com/nrulerina/RedditClone)<br>
 
 ## Recent Projects
 🚗 [CBS- CarBookinngSystem - Website](https://github.com/nrulerina/Car-Booking-System)<br>
