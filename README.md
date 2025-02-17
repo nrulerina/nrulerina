@@ -1,4 +1,6 @@
  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Foishylea%2Flearn-github&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+ ![Profile Views](https://komarev.com/ghpvc/?username=nrulerina&color=blue&style=flat)
+
 
 ## Hi there, I'm Nurul Erina ✨  
 
@@ -44,9 +46,14 @@
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobelightroom&logoColor=white&style=flat)
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,dart,flutter,figma,r,firebase,py,ps)](https://skillicons.dev) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrulerina&layout=compact&langs_count=10&hide=html,CSS&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nrulerina&show_icons=true&theme=radical) <br>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nrulerina&theme=radical&no-frame=true&no-bg=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrulerina&layout=compact&langs_count=10&hide=html,CSS)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nrulerina&theme=radical&no-bg=true&no-frame=true)
+
+
+
+
 
 <!-- ## Contact
 
