@@ -12,7 +12,8 @@
 ## Ongoing Projects
 🌐 [HopeNest - Laravel](https://github.com/nrulerina/RedditClone)<br>
 
-## Recent Projects
+## Recent Projects🚲
+🚲 [BikeShopReport - PowerBI & SQL]<br>
 🍕 [PizzaSalesReport - PowerBI & SQL](https://github.com/nrulerina/PizzaSalesReport)<br>
 🚗 [CBS- CarBookingSystem - Website](https://github.com/nrulerina/Car-Booking-System)<br>
 📖 [LibraryManagementSystem - Java](https://github.com/nrulerina/Library-Management-System)<br>
