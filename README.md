@@ -13,6 +13,8 @@
 🌐 [HopeNest - Laravel](https://github.com/nrulerina/RedditClone)<br>
 
 ## Recent Projects
+🐼 [PandaMart Sales & Performance Analysis Report - Power BI]<br>
+📦 [Blinkit Real-Time Sales & Inventory Analysis - SQL]<br>
 🚲 [BikeShopReport - PowerBI & SQL]<br>
 🍕 [PizzaSalesReport - PowerBI & SQL](https://github.com/nrulerina/PizzaSalesReport)<br>
 🚗 [CBS- CarBookingSystem - Website](https://github.com/nrulerina/Car-Booking-System)<br>
