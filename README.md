@@ -13,7 +13,7 @@
 🌐 [HopeNest - Laravel](https://github.com/nrulerina/RedditClone)<br>
 
 ## Recent Projects
-🎬 [Netflix Content Insights: Business Decisions - SQL]<br>
+🎬 [Netflix Content Insights: Business Decisions - SQL](https://github.com/nrulerina/Netflix_Insights)<br>
 🐼 [AEmart Sales & Performance Analysis Report - Power BI]<br>
 📦 [Blinkit Real-Time Sales & Inventory Analysis - SQL]<br>
 🚲 [BikeShopReport - PowerBI & SQL]<br>
