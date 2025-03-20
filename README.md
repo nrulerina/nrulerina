@@ -22,6 +22,8 @@
 📖 [LibraryManagementSystem - Java](https://github.com/nrulerina/Library-Management-System)<br>
 🏢 [AkmajuManagementSystem -Website](https://github.com/nrulerina/AKmaju-System)<br>
 
+# Certifications & Licenses 
+- 🎖️[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/70483906-fc22-40f3-a955-6b3fcad29109/linked_in_profile)
 
 ## Technical Skills
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
