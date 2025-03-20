@@ -14,7 +14,7 @@
 
 ## Recent Projects
 🎬 [Netflix Content Insights: Business Decisions - SQL](https://github.com/nrulerina/Netflix_Insights)<br>
-🛒 [NEmart Sales & Performance Analysis Report - Power BI]<br>
+🛒 [NEmart Sales & Performance Analysis Report - Power BI](https://github.com/nrulerina/NEmart)<br>
 📦 [Blinkit Real-Time Sales & Inventory Analysis - SQL]<br>
 🚲 [BikeShopReport - PowerBI & SQL]<br>
 🍕 [PizzaSalesReport - PowerBI & SQL](https://github.com/nrulerina/PizzaSalesReport)<br>
