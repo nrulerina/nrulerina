@@ -6,7 +6,6 @@
 
 👩🏻‍🎓 Third-year Data Engineering student from University of Technology Malaysia<br>
 🗺️ Spoken Languages&nbsp;:&nbsp;English,&nbsp;Malay<br>
-🗂️ Click to open [Erina's Portfolio](https:)
 <!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
 
 ## Ongoing Projects
