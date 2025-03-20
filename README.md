@@ -10,9 +10,9 @@
 
 ## Ongoing Projects
 🌐 [HopeNest - Laravel](https://github.com/nrulerina/RedditClone)<br>
+📊 [IBM HR Analytics Business Insights - SQL]<br>
 
 ## Recent Projects
-📊 [IBM HR Analytics Business Insights - SQL]<br>
 🎬 [Netflix Content Insights: Business Decisions - SQL](https://github.com/nrulerina/Netflix_Insights)<br>
 🛒 [NEmart Sales & Performance Analysis Report - Power BI]<br>
 📦 [Blinkit Real-Time Sales & Inventory Analysis - SQL]<br>
