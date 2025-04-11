@@ -24,6 +24,7 @@
 
 # Certifications & Licenses 
 - 🎖️[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/70483906-fc22-40f3-a955-6b3fcad29109/linked_in_profile)
+- 🎖️[AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/70483906-fc22-40f3-a955-6b3fcad29109/linked_in_profile)
 
 ## Technical Skills
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
