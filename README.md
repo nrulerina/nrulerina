@@ -35,6 +35,8 @@
 - 🎖️[AWS Academy Graduate: AWS Academy Cloud Developing](https://www.credly.com/badges/8ba3d978-b297-4b63-b4cb-fb218da8acb2/public_url)
 - 🎖️[AWS Academy Graduate: AWS Academy Cloud Data Pipeline Builder](https://www.credly.com/badges/8e3d92fe-aa39-476f-848b-ebd16832a6d0/public_url)
 - 🎖️[IBM: Enterprise Design Thinking Practitioner](https://www.credly.com/badges/4d7c69a8-8100-4de7-9594-8254baf9bb97/public_url)
+- 🎖️[IBM: Enterprise Design Thinking Practitioner](https://www.credly.com/badges/4d7c69a8-8100-4de7-9594-8254baf9bb97/public_url)
+- 🎖️[Alteryx: Designer Core Micro-Credential](https://drive.google.com/file/d/1-6w6Xb76aEu6zsv7I6cMW9AVWRm_Q-N2/view?usp=sharing)
 
 ## Technical Skills
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat)
