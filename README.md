@@ -23,10 +23,13 @@
 🏢 [AkmajuManagementSystem -Website](https://github.com/nrulerina/AKmaju-System)<br>
 
 # Certifications & Licenses 
+- 🎖️[Udemy: Azure Data Factory For Data Engineers - Project on Covid19](https://drive.google.com/file/d/1-2mbvX9IgrVKjLYbGgZZBKm-Qb8XHPRW/view?usp=sharing)
 - 🎖️[Snowflake: Hands-On Essentials: Data Warehousing Workshop](https://achieve.snowflake.com/9bb94c08-83d5-46c8-9963-9c9cb5a12b46#acc.6ZnuElU1)
 - 🎖️[Databricks: Databricks Fundamentals](https://credentials.databricks.com/f5d38695-7d66-4627-bd9e-ce24a97d30af#acc.VKYrbk0x)
 - 🎖️[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/70483906-fc22-40f3-a955-6b3fcad29109/linked_in_profile)
 - 🎖️[AWS Academy Graduate: AWS Academy Cloud Foundations](https://www.credly.com/badges/25489ffe-3983-4f78-b46f-00cfde114a7a/public_url)
+- 🎖️[AWS Academy Graduate - AWS Academy Cloud Developing](https://www.credly.com/badges/8ba3d978-b297-4b63-b4cb-fb218da8acb2/public_url)
+- 🎖️[AWS Academy Graduate - AWS Academy Cloud Data Pipeline Builder](https://www.credly.com/badges/8e3d92fe-aa39-476f-848b-ebd16832a6d0/public_url)
 
 ## Technical Skills
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
