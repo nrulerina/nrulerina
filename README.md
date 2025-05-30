@@ -13,6 +13,7 @@
 📊 [IBM HR Analytics Business Insights - SQL]<br>
 
 ## Recent Projects
+🏭 [Azure End-to-End Data Engineering Project - Azure](https://github.com/nrulerina/End-To-End-ADF)<br>
 🎬 [Netflix Content Insights: Business Decisions - SQL](https://github.com/nrulerina/Netflix_Insights)<br>
 🛒 [NEmart Sales & Performance Analysis Report - Power BI](https://github.com/nrulerina/NEmart)<br>
 📦 [Blinkit Real-Time Sales & Inventory Analysis - SQL]<br>
