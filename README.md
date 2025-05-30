@@ -42,6 +42,7 @@
 ![Databricks](https://img.shields.io/badge/-Databricks-E42B2B?logo=databricks&logoColor=white&style=flat)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white&style=flat)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?logo=googlecloud&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
