@@ -23,7 +23,7 @@
 🏢 [AkmajuManagementSystem -Website](https://github.com/nrulerina/AKmaju-System)<br>
 
 # Certifications & Licenses 
-- 🎖️[Snowflake Certified: Hands-On Essentials: Data Warehousing Workshop](https://achieve.snowflake.com/9bb94c08-83d5-46c8-9963-9c9cb5a12b46#acc.6ZnuElU1)
+- 🎖️[Snowflake : Hands-On Essentials: Data Warehousing Workshop](https://achieve.snowflake.com/9bb94c08-83d5-46c8-9963-9c9cb5a12b46#acc.6ZnuElU1)
 - 🎖️[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/70483906-fc22-40f3-a955-6b3fcad29109/linked_in_profile)
 - 🎖️[AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/25489ffe-3983-4f78-b46f-00cfde114a7a/public_url)
 
