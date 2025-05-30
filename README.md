@@ -11,7 +11,6 @@
 ## Ongoing Projects
 🌐 [HopeNest - Laravel](https://github.com/nrulerina/RedditClone)<br>
 📊 [IBM HR Analytics Business Insights - SQL]<br>
- Azure Data Factory - Parametrized Pipeline Project
 
 ## Recent Projects
 🏭 [Azure End-to-End Data Engineering Project - Azure](https://github.com/nrulerina/End-To-End-ADF)<br>
