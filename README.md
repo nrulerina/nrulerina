@@ -15,6 +15,7 @@
 ## Recent Projects
 🏭 [Azure End-to-End Data Engineering Project - Azure](https://github.com/nrulerina/End-To-End-ADF)<br>
 🧱 [Pizza Sales Data Pipeline (Medallion Architecture) - Python & SQL](https://github.com/nrulerina/End-To-End-ADF)<br>
+🏭 [Azure Data Factory - Mapping Data Flow (Mini Project) - Azure](https://github.com/nrulerina/End-To-End-ADF)<br>
 🚀 [Exita Manufacturing ERP System - SAP](https://github.com/nrulerina/-ExitaManufacturing)<br>
 🎬 [Netflix Content Insights: Business Decisions - SQL](https://github.com/nrulerina/Netflix_Insights)<br>
 🛒 [NEmart Sales & Performance Analysis Report - Power BI](https://github.com/nrulerina/NEmart)<br>
