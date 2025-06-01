@@ -13,7 +13,7 @@
 📊 [IBM HR Analytics Business Insights - SQL]<br>
 
 ## Recent Projects
-🏭 [Azure End-to-End Data Engineering Project - Azure](https://github.com/nrulerina/End-To-End-ADF)<br>
+🏭 [Azure End-to-End Project (Medallion Architecture) - Azure](https://github.com/nrulerina/End-To-End-ADF)<br>
 🧱 [Pizza Sales Data Pipeline (Medallion Architecture) - Python & SQL](https://github.com/nrulerina/PizzaDataPipeline)<br>
 🏭 [Azure Data Factory - Mapping Data Flow (Mini Project) - Azure](https://github.com/nrulerina/MappingDataFlow)<br>
 🏭 [Azure Data Factory - Parametrized Pipeline (Mini Project) - Azure](https://github.com/nrulerina/adf)<br>
