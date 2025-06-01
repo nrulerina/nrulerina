@@ -30,11 +30,12 @@
 - 🎖️[Udemy: Azure Data Factory For Data Engineers - Project on Covid19](https://drive.google.com/file/d/1-2mbvX9IgrVKjLYbGgZZBKm-Qb8XHPRW/view?usp=sharing)
 - 🎖️[Snowflake: Hands-On Essentials: Data Warehousing Workshop](https://achieve.snowflake.com/9bb94c08-83d5-46c8-9963-9c9cb5a12b46#acc.6ZnuElU1)
 - 🎖️[Databricks: Databricks Fundamentals](https://credentials.databricks.com/f5d38695-7d66-4627-bd9e-ce24a97d30af#acc.VKYrbk0x)
+- 🎖️[Databricks: Azure Databricks Platform Architect](https://credentials.databricks.com/f69ddfd5-4fab-41ee-99e9-f505a63173c5#acc.YP2CXvLU)
 - 🎖️[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/70483906-fc22-40f3-a955-6b3fcad29109/linked_in_profile)
+- 🎖️[HackerRank: SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/iframe/144b0af6c670)
 - 🎖️[AWS Academy Graduate: AWS Academy Cloud Foundations](https://www.credly.com/badges/25489ffe-3983-4f78-b46f-00cfde114a7a/public_url)
 - 🎖️[AWS Academy Graduate: AWS Academy Cloud Developing](https://www.credly.com/badges/8ba3d978-b297-4b63-b4cb-fb218da8acb2/public_url)
 - 🎖️[AWS Academy Graduate: AWS Academy Cloud Data Pipeline Builder](https://www.credly.com/badges/8e3d92fe-aa39-476f-848b-ebd16832a6d0/public_url)
-- 🎖️[IBM: Enterprise Design Thinking Practitioner](https://www.credly.com/badges/4d7c69a8-8100-4de7-9594-8254baf9bb97/public_url)
 - 🎖️[IBM: Enterprise Design Thinking Practitioner](https://www.credly.com/badges/4d7c69a8-8100-4de7-9594-8254baf9bb97/public_url)
 - 🎖️[Alteryx: Designer Core Micro-Credential](https://drive.google.com/file/d/1-6w6Xb76aEu6zsv7I6cMW9AVWRm_Q-N2/view?usp=sharing)
 
