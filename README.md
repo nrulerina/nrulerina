@@ -22,6 +22,7 @@
 🛒 [NEmart Sales & Performance Analysis Report - Power BI](https://github.com/nrulerina/NEmart)<br>
 🚲 [BikeShopReport - PowerBI & SQL](https://github.com/nrulerina/BikeShopReport)<br>
 🍕 [PizzaSalesReport - PowerBI & SQL](https://github.com/nrulerina/PizzaSalesReport)<br>
+🕷️ [High-Performance Web Crawler & Data Processing - Python](https://github.com/nrulerina/hpdp-ebay-data-pipeline)<br>
 🚗 [CBS- CarBookingSystem - Website](https://github.com/nrulerina/Car-Booking-System)<br>
 📖 [LibraryManagementSystem - Java](https://github.com/nrulerina/Library-Management-System)<br>
 🏢 [AkmajuManagementSystem -Website](https://github.com/nrulerina/AKmaju-System)<br>
