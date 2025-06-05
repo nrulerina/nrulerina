@@ -22,7 +22,7 @@
 🛒 [NEmart Sales & Performance Analysis Report - Power BI](https://github.com/nrulerina/NEmart)<br>
 🚲 [BikeShopReport - PowerBI & SQL](https://github.com/nrulerina/BikeShopReport)<br>
 🍕 [PizzaSalesReport - PowerBI & SQL](https://github.com/nrulerina/PizzaSalesReport)<br>
-🕷️ [High-Performance Web Crawler & Data Processing - Python](https://github.com/nrulerina/hpdp-ebay-data-pipeline)<br>
+🕷️ [High-Performance Web Crawler & Data Processing - Python](https://github.com/nrulerina/ebay-crawler-hpc)<br>
 🚗 [CBS- CarBookingSystem - Website](https://github.com/nrulerina/Car-Booking-System)<br>
 📖 [LibraryManagementSystem - Java](https://github.com/nrulerina/Library-Management-System)<br>
 🏢 [AkmajuManagementSystem -Website](https://github.com/nrulerina/AKmaju-System)<br>
@@ -44,6 +44,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat)
 ![Databricks](https://img.shields.io/badge/-Databricks-E42B2B?logo=databricks&logoColor=white&style=flat)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white&style=flat)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?logo=googlecloud&logoColor=white&style=flat)
