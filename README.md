@@ -5,6 +5,7 @@
 ## Hi there, I'm Nurul Erina ✨  
 
 👩🏻‍🎓 Final year Data Engineering student from Universiti Teknologi Malaysia<br>
+💼 **Data Engineer Analyst Intern at PPG** — working with ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white&style=flat) **Datasphere** & **Analytics Cloud (SAC)**<br>
 🗺️ Spoken Languages&nbsp;:&nbsp;English,&nbsp;Malay<br>
 <!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
 
@@ -41,7 +42,9 @@
 - 🎖️[Alteryx: Designer Core Micro-Credential](https://drive.google.com/file/d/1-6w6Xb76aEu6zsv7I6cMW9AVWRm_Q-N2/view?usp=sharing)
 
 ## Technical Skills
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat)
+![SAP Datasphere](https://img.shields.io/badge/-SAP%20Datasphere-0FAAFF?logo=sap&logoColor=white&style=flat)
+![SAP Analytics Cloud](https://img.shields.io/badge/-SAP%20Analytics%20Cloud-0FAAFF?logo=sap&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/Azure%20Cloud-0078D4?logo=cloudflare&logoColor=white&style=flat)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat)
 ![Databricks](https://img.shields.io/badge/-Databricks-E42B2B?logo=databricks&logoColor=white&style=flat)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)
