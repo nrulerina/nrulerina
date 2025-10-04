@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Nurul Erina ✨  
 
-👩🏻‍🎓 Third-year Data Engineering student from Universiti Teknologi Malaysia<br>
+👩🏻‍🎓 Final year Data Engineering student from Universiti Teknologi Malaysia<br>
 🗺️ Spoken Languages&nbsp;:&nbsp;English,&nbsp;Malay<br>
 <!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
 
